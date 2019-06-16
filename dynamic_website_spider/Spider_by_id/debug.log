@@ -1,0 +1,2 @@
+[0611/082525.334:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0611/082525.337:ERROR:exception_snapshot_win.cc(98)] thread ID 4288 not found in process
